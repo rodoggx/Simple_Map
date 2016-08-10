@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleMap</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAn954ewil2kQ4lxZkQXDjmUMLjbAu4jtQ</string>
+</resources>
